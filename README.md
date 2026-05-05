@@ -123,6 +123,14 @@ The **Secure User Authentication and Vault System** is a comprehensive desktop a
 - `refresh_dashboard_view()` - Dashboard data refresh
 
 ---
+link.- ![Alt texr](https://github.com/rizzu12417714/secure-auth-framework/blob/main/Screenshot%202026-05-05%20221025.png)
+link.- ![Alt texr](https://github.com/rizzu12417714/secure-auth-framework/blob/main/Screenshot%202026-05-05%20221034.png)
+link.- ![Alt texr](https://github.com/rizzu12417714/secure-auth-framework/blob/main/Screenshot%202026-05-05%20221059.png)
+link.- ![Alt texr](https://github.com/rizzu12417714/secure-auth-framework/blob/main/Screenshot%202026-05-05%20221118.png)
+link.- ![Alt texr](https://github.com/rizzu12417714/secure-auth-framework/blob/main/Screenshot%202026-05-05%20221136.png)
+link.- ![Alt texr](https://github.com/rizzu12417714/secure-auth-framework/blob/main/Screenshot%202026-05-05%20221144.png)
+link.- ![Alt texr](https://github.com/rizzu12417714/secure-auth-framework/blob/main/Screenshot%202026-05-05%20221209.png)
+
 
 ## 3. FUNCTIONALITIES
 
