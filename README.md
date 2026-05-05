@@ -478,6 +478,7 @@ git commit -m "docs: Update security policy"
 Below are the screenshots captured during development and while using the application. Click the images to view them at full size.
 
 ![Login Screen](screenshots/Screenshot 2026-05-05 221034.png)
+![Alt texr](screenshots/Screenshot 2026-05-05 221034.png)
 
 ![Registration Screen](screenshots/Screenshot 2026-05-05 221059.png)
 
